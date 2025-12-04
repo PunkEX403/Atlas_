@@ -9,4 +9,4 @@ This system has the LED matrix and the Raspberry Pi, which work together to cont
 This package gives you the main hardware and software needed to make your Protogen head work. It’s a good starting point to build your costume and bring your character to life.
 
 # BOM
-[BOM - Sheet1 (1).csv](https://github.com/user-attachments/files/23921228/BOM.-.Sheet1.1.csv)
+[BOM - Sheet.csv](https://github.com/user-attachments/files/23921440/BOM.-.Sheet.csv)
