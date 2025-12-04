@@ -1,4 +1,4 @@
-# Atlas_
+[BOM - Sheet1 (1).csv](https://github.com/user-attachments/files/23920862/BOM.-.Sheet1.1.csv)# Atlas_
 code for rasberry pie to control adafruit LED Matrix and other bits and peices
 
 Why i am making this
@@ -8,4 +8,19 @@ Description
 
 
 
- [Uploading BOM - Sheet1 (1).csv…]()
+ [Upl,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Item,Qnty,Unit Price $,Total Price $,URL,Running Total $
+64x32 RGB LED Matrix,2,12.99,25.98,"https://www.aliexpress.com/item/1005003283228359.html?spm=a2g0o.productlist.main.4.dc984f89neqptW&aem_p4p_detail=20251203183659418745178478950001389423&algo_pvid=ca69620e-15e0-40a1-a1ec-490f2ee4f791&algo_exp_id=ca69620e-15e0-40a1-a1ec-490f2ee4f791-3&pdp_ext_f=%7B""order""%3A""77""%2C""eval""%3A""1""%2C""fromPage""%3A""search""%7D&pdp_npi=6%40dis%21AUD%2125.98%2112.99%21%21%2116.82%218.41%21%402101eee917648158193595052e8132%2112000025011996284%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2a9ab2a%3Bm03_new_user%3A-29895&curPageLogUid=LDcTFIUpX5dN&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005003283228359%7C_p_origin_prod%3A&search_p4p_id=20251203183659418745178478950001389423_1",25.98
+RGB Matrix Bonnet for Raspberry Pi,1,24.66,24.66,"https://www.aliexpress.com/item/1005002564944520.html?spm=a2g0o.productlist.similar_items.17.5e2b5db2cOgxQn&utparam-url=scene%3Aimage_search%7Cquery_from%3Adetail_bigimg%7Cx_object_id%3A1005002564944520%7C_p_origin_prod%3A&algo_pvid=8c749fef-9ded-42d4-990d-94aa33100910&algo_exp_id=8c749fef-9ded-42d4-990d-94aa33100910&pdp_ext_f=%7B""order""%3A""31""%2C""fromPage""%3A""search""%7D&pdp_npi=6%40dis%21AUD%2136.24%2124.66%21%21%2123.47%2115.97%21%402101e2b417648162693196148e40fa%2112000021170633721%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2a9ab2a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187471779",50.64
+Visor,1,140,140,https://www.kaiborgstudios.com/diy,190.64
+Helmet Frame,1,98,98,https://www.kaiborgstudios.com/diy,288.64
+Fan,1,2.21,2.21,"https://www.aliexpress.com/item/869504771.html?spm=a2g0o.productlist.main.1.413e2384TTQeuQ&algo_pvid=2f9b9c84-4bb6-4bba-a8d2-2c9af550e9b4&algo_exp_id=2f9b9c84-4bb6-4bba-a8d2-2c9af550e9b4-0&pdp_ext_f=%7B""order""%3A""6""%2C""eval""%3A""1""%2C""fromPage""%3A""search""%7D&pdp_npi=6%40dis%21AUD%2117.45%212.21%21%21%2111.30%211.43%21%402101d6ff17648168619981510ed03c%2157697085310%21sea%21AU%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ac2a9ab2a%3Bm03_new_user%3A-29895%3BpisId%3A5000000187471779&curPageLogUid=WKjHRAQus1EP&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A869504771%7C_p_origin_prod%3A",290.85oading BOM - Sheet1 (1).csv…]()
